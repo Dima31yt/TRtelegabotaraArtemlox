@@ -1,1 +1,1 @@
-python TR.py
+python test.py
